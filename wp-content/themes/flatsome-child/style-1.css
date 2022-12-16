@@ -1,0 +1,280 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+/***************
+All custom CSS should be added to Flatsome > Advanced > Custom CSS,
+or in the style.css of a Child Theme.
+***************/
+
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+
+div.wppb-progress{
+	background: white !important
+}
+.section-gioi-thieu .p-kn{
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+.section-gioi-thieu .wppb-wrapper {
+	margin-bottom: 20px;
+}
+.section-gioi-thieu .fixed{
+	position: relative !important;
+}
+.section-gioi-thieu div.wppb-progress{
+	height: 8px !important
+}
+.section-gioi-thieu div.wppb-progress > span{
+	height: 8px !important
+}
+.section-doi-ngu .col:nth-child(1) .box-text-bottom:before{
+	background-color: #f6c25d;}
+.section-doi-ngu .col:nth-child(1) .box-text-bottom .person-title{
+	color: #f6c25d;font-weight: bold !important;
+}
+.section-doi-ngu .col:nth-child(2) .box-text-bottom:before {
+	background-color: #17a5d4;}
+.section-doi-ngu .col:nth-child(2) .box-text-bottom .person-title{
+	color: #17a5d4;
+	font-weight: bold !important;
+}
+.section-doi-ngu .col:nth-child(3) .box-text-bottom:before{
+	background-color: #8bc660;}
+.section-doi-ngu .col:nth-child(3) .box-text-bottom .person-title{
+	color: #8bc660;
+	font-weight: bold !important;
+}
+.section-doi-ngu .col:nth-child(4) .box-text-bottom:before{
+	background-color: #01a2a6;}
+.section-doi-ngu .col:nth-child(4) .box-text-bottom .person-title{
+	color: #01a2a6;
+	font-weight: bold !important;
+}
+.section-doi-ngu .box-text-bottom:before{
+
+	content: '';
+	display: block;
+	height: 2px;
+	width: 60px;
+	position: absolute;
+	top: -1px;
+	left: 50%;
+	margin-left: -30px;
+
+}
+.section-theo-doi ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	color: white;
+}
+.section-theo-doi ::-moz-placeholder { /* Firefox 19+ */
+	color: white;
+}
+.section-theo-doi :-ms-input-placeholder { /* IE 10+ */
+	color:white;
+}
+.section-theo-doi :-moz-placeholder { /* Firefox 18- */
+	color:white;
+}
+.reasons-row { padding-bottom: 0px !important; margin-bottom: -20px !important }
+.reasons-row .accordion-item {
+	border: solid 1px #e67e22; margin-bottom: 10px
+}
+.reasons-row .accordion-title.active {
+	background: #e67e22; color: #fff !important;
+	border-top: none; font-weight: normal !important
+}
+.reasons-row .accordion-inner { padding: 10px 15px; font-size: 15px }
+.teachers-row .col > .col-inner > .box {
+	background: #fafafa; padding: 10px
+}
+.teachers-row .col > .col-inner > .box > .box-text { padding-bottom: 3px }
+.teachers-row .main-header { color: #fff }
+.teachers-row .flickity-page-dots { bottom: -20px !important }
+.main-header {
+	text-align: center; margin-top: 20px; margin-bottom: 25px;
+}
+.main-header:after {
+	content: ""; display: block; width: 100px; height: 3px; background: #e67e22; margin: 2px auto 0
+}
+.testimonial-text, .testimonial-meta { font-size: 14px }
+.video-col .slider-wrapper {
+	margin-left: -10px; margin-right: -10px;
+}
+#footer { font-size: 15px }
+#footer .widget-title { font-size: 16px }
+#footer p { margin-bottom: 7px }
+.copyright-footer { padding-top: 5px }
+#register-link {
+	position: fixed; top: 20%; right: 10px; z-index: 1000 }
+
+.top-sologan-one{
+	padding-right: 10px;
+}
+span.amount{
+	color: red;
+}
+.box-text .product-title{
+	text-transform: uppercase;
+
+}
+.section-doi-ngu .box {
+	padding: 12px 5px;
+}
+.section-con-so .icon-box-text{
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+}
+.section-con-so .icon-box h3{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
+.section-con-so .icon-box i{
+	font-size: 30px;
+}
+.section-cam-nhan h3.tieu-de,.section-hinh-anh h3.tieu-de{
+	text-transform: uppercase;
+	font-size: 25px;
+	padding-bottom: 20px;
+}
+.section-cam-nhan,.section-gioi-thieu,.section-doi-ngu,.section-logo{
+	border-top: 1px solid #e0e0e0;
+}
+.star-rating span:before{
+	color: #f1c40f;
+}
+.entry-content{
+	padding-top: 0px;
+}
+.related-post .post-title{
+	font-size: 14px;
+}
+.title-related{
+	text-transform: uppercase;
+}
+.section-theo-doi .col{
+	padding-bottom: 0px;
+}
+.section-theo-doi h3{
+	color: white;
+}
+.section-theo-doi form{
+	margin-bottom: 0px;
+}
+.section-theo-doi .wpcf7-email{
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	background: transparent;
+	color: white;
+}
+
+.section-theo-doi .wpcf7-submit{
+	background: white;
+	color: #E5B14C;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.star-rating:before, .woocommerce-page .star-rating:before{
+	color: #f1c40f;
+}
+.section-cam-nhan .icon-box{
+	border: 1px solid #e0e0e0;
+	background: white;
+	padding: 10px;
+}
+.section-con-so h3.tieu-de{
+	color: white;
+	font-size: 30px;
+}
+.section-con-so .icon-box{
+	border-color: rgba(255,255,255,0.24);
+	background-color: rgba(255,255,255,0.09);
+	padding: 30px;
+	border: 1px solid;
+}
+.is-divider{
+	background: transparent;
+}
+.box-text .post-title{
+	min-height: 38px;
+}
+
+.div-tin-tuc .box-text:hover .post-title{
+	color: #01a2a6
+}
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+	@media(min-width: 1599px){
+		body.framed, body.framed header, body.framed .header-wrapper, body.boxed, body.boxed header, body.boxed .header-wrapper, body.boxed .is-sticky-section {
+			max-width: 1570px;
+		}
+	}
+	@media(max-width: 769px){
+		.section-gioi-thieu{
+			padding-top: 30px !important;
+			padding-bottom: 30px !important;
+		}
+	}
+	@media(min-width: 1023px){
+		.div-tin-tuc .box-text{
+			padding-top: 35px;
+			padding-bottom: 35px;
+		}
+		.div-tin-tuc .from_the_blog_excerpt {
+			min-height: 80px;
+		}
+		.div-tin-tuc .col:nth-child(odd) .box-text:before{
+			border-color: #ffffff;
+			content: '';
+			display: block;
+			position: absolute;
+			left: 25px;
+			top: -9px;
+			border-top: 0 solid transparent !important;
+			border-left: 9px solid transparent !important;
+			border-right: 9px solid transparent !important;
+			border-bottom-width: 10px;
+			border-bottom-style: solid;
+		}
+		.div-tin-tuc .post-title{
+			text-transform: uppercase;
+		}
+
+		.div-tin-tuc .col:nth-child(even) .box-text:before{
+			border-color: #ffffff;
+			content: '';
+			display: block;
+			position: absolute;
+			bottom: -9px;
+			border-bottom: 0 solid transparent !important;
+			border-left: 9px solid transparent !important;
+			border-right: 9px solid transparent !important;
+			border-top-width: 10px;
+			border-top-style: solid;
+		}
+		.div-tin-tuc .col:nth-child(2) .box-text,.div-tin-tuc .col:nth-child(4) .box-text{
+			position: absolute;
+			top: 0px;
+			background: white;
+		}
+		.div-tin-tuc .col:nth-child(2) .box-image,.div-tin-tuc .col:nth-child(4) .box-image{
+			top: 222px;
+		}
+	}
+}

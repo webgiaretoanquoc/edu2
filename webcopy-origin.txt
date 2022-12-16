@@ -1,0 +1,232 @@
+Uri: https://edu2.webtudong8giay.com/en/comments/feed/
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\en\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://edu2.webtudong8giay.com/en/feed/
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\en\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://edu2.webtudong8giay.com/en/home-2/
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\en\home-2\index-1.htm
+Content Type: text/html
+
+Uri: https://edu2.webtudong8giay.com/en/home-2/feed/
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\en\home-2\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/progress-bar/css/wppb.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\progress-bar\css\wppb-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/progress-bar/js/wppb_animate.js?ver=6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\progress-bar\js\wppb_animate-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woo-poly-integration/public/js/Cart.min.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woo-poly-integration\public\js\Cart.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-cookie\jquery.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome-child\style-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/home-1.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\home-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/home-bg-1-1.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\home-bg-1-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/home-bg-6.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\home-bg-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/home-bg-7.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\home-bg-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/home-prlx-3-1.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\home-prlx-3-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/07/logo-1.png
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\07\logo-1-1.png
+Content Type: image/png
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/08/46993444-group-of-student-in-the-classroom-discussion-concept-1024x703.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\08\46993444-group-of-student-in-the-classroom-discussion-concept-1024x703-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/08/class-discussion.png
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\08\class-discussion-1.png
+Content Type: image/png
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/08/Depositphotos_46326837_original-1024x706.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\08\Depositphotos_46326837_original-1024x706-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/08/Depositphotos_58582087_original-1024x706.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\08\Depositphotos_58582087_original-1024x706-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-content/uploads/2018/08/Depositphotos_63889211_original-1024x706.jpg
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-content\uploads\2018\08\Depositphotos_63889211_original-1024x706-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\css\classic-themes.min-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\js\hoverIntent.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://edu2.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://edu2.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://edu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu2.webtudong8giay.com%2Fen%2Fhome-2%2F
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://edu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu2.webtudong8giay.com%2Fen%2Fhome-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://edu2.webtudong8giay.com/wp-json/wp/v2/pages/319
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\wp-json\wp\v2\pages\319-1
+Content Type: application/json
+
+Uri: https://edu2.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2Cregular%2Cregular%2Cregular%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
